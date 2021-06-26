@@ -2,7 +2,7 @@
 Hologram, holograph, holodeck?
 
 ## Holographic
-Sketches to create holgraphic views.
+Sketches to create holographic views.
 
 Enjoy!
 
